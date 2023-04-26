@@ -9,7 +9,7 @@ List IPv4 ranges (merged): Twitter, Netflix, Facebook (Instagram), Linkedin, Mic
 https://raw.githubusercontent.com/hillout/ipranges/main/twitter/twitter.txt
 
 ## Facebook 
-https://github.com/hillout/ipranges/blob/main/Facebook/facebook-insta.txt
+https://raw.githubusercontent.com/hillout/ipranges/main/Facebook/facebook-insta.txt
 
 ## Amazon
 https://raw.githubusercontent.com/hillout/ipranges/main/Amazon/Amazon.txt
