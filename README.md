@@ -34,3 +34,7 @@ https://raw.githubusercontent.com/hillout/ipranges/main/microsoft/microsoft.txt
 
 ## Orangehub
 https://raw.githubusercontent.com/hillout/ipranges/main/orangehub/orangehub.txt
+
+
+### Link to another resourses:
+https://github.com/lord-alfred/ipranges
