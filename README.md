@@ -1,4 +1,4 @@
-# ipranges
+# IPv4 Ranges of popular services
 ![Network-diagram](https://user-images.githubusercontent.com/15137897/234512803-4ec17ff9-e592-48ae-ad9a-53e5a450e083.png)
 
 
